@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "minecraft-protocol": "^1.62.0",
+    "mineflayer": "^4.33.0",
+    "screenshot-desktop": "^1.15.0",
+    "sharp": "^0.32.0"
+  }
+}
